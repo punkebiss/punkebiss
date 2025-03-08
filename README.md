@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Alvaro
 - 👀 I’m interested in game and software development 
-- 🌱 I’m currently learning C, Java and Python
+- 🌱 I’m currently learning C, Javascript and Python
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I currently work as an auditor
 <!---
